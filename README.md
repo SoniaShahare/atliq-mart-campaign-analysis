@@ -1,4 +1,5 @@
-#ATLIQ MART CAMPAIGN ANALYSIS
+# ATLIQ MART CAMPAIGN ANALYSIS
+
 This file contains all the meta information regarding the columns described in the CSV files. We have provided 2 CSV files:
 1. dim_customers
 2. fact_spends
